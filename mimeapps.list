@@ -1,0 +1,12 @@
+[Added Associations]
+image/jpeg=org.gnome.gThumb.desktop;
+text/plain=visual-studio-code.desktop;
+
+[Default Applications]
+inode/directory=org.gnome.Nautilus.desktop
+image/png=org.gnome.gThumb.desktop
+image/jpeg=org.gnome.gThumb.desktop
+image/tiff=org.gnome.gThumb.desktop
+image/gif=org.gnome.gThumb.desktop
+image/bmp=org.gnome.gThumb.desktop
+text/plain=visual-studio-code.desktop
